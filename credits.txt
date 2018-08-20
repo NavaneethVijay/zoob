@@ -1,0 +1,31 @@
+Design From Dribble: Andrew Baygulov
+link: https://dribbble.com/shots/4158262-Z-oob
+
+Images from: Alexander Popelier
+Link: https://www.zoob.be/en
+
+
+colors
+
+/* CSS */
+.swatch_1{
+    background: #35231e;
+}
+.swatch_2{
+    background: #fdfdfd;
+}
+.swatch_3{
+    background: #a34e22;
+}
+.swatch_4{
+    background: #a9a093;
+}
+.swatch_5{
+    background: #dc734a;
+}
+.swatch_6{
+    background: #d3d3d2;
+}
+.swatch_7{
+    background: #d5caab;
+}
